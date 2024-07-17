@@ -13,7 +13,7 @@ variable "region" {
 variable "image_name" {
   description = "application name"
   type        = string
-  default     = "transformer"
+  default     = "lambdafunctions"
 }
 
 variable "api_port" {
