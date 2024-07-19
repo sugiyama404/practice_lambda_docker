@@ -57,6 +57,8 @@ bin/terraform_destroy
   <img src="sources/log.png" alt="animated">
 </p>
 
-<!-- # Qiita記事
+# Qiita記事
 
-技術詳細はQiitaに記載しています。 -->
+技術詳細はQiitaに記載しています。
+
+[Terraformを使ったLambda関数のコンテナイメージ構築](https://qiita.com/sugiyama404/items/5dc9e28289748cc44bde)
